@@ -1,5 +1,7 @@
 # Scientific_programming
 
+**Authors:** Meritxell García, Lucía Nuñez and Xènia Roda
+
 The first step of the process is to create in the MASTER branch (main) the file that will have our story: group story.
 Then each member of the group has to create a new Branch (Xènia, Meritxell and Lucía). In each branch we will find the group story file that was just created in the main branch. 
 
